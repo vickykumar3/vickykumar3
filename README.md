@@ -16,8 +16,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=vickykumar3&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vickykumar3&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=vickykumar3&icon=0&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->mar3/vickykumar3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
