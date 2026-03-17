@@ -1,10 +1,10 @@
-## Hi there 👋
-
-
-
 💫 About Me:
+
+
+
+
 <br>
-💻 Passionate Frontend Developer from India 🇮🇳
+💻 Passionate Frontend Developer from India 🇮🇳 <br>
 <br>🌱 Currently learning JavaScript & React<br>
 <br>🎨 Love building responsive and user-friendly websites<br>
 <br>🚀 Interested in Web Development & DSA<br>
