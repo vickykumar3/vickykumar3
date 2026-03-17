@@ -1,10 +1,14 @@
 ## Hi there 👋
 
 
-**vickykumar# 
+
 💫 About Me:
 <br>
-💻 Passionate Frontend Developer from India 🇮🇳<br>🌱 Currently learning JavaScript & React<br><br>🎨 Love building responsive and user-friendly websites<br><br>🚀 Interested in Web Development & DSA<br><br>🎯 Goal: Become a Full Stack Developer
+💻 Passionate Frontend Developer from India 🇮🇳
+<br>🌱 Currently learning JavaScript & React<br>
+<br>🎨 Love building responsive and user-friendly websites<br>
+<br>🚀 Interested in Web Development & DSA<br>
+<br>🎯 Goal: Become a Full Stack Developer
 
 
 ## 🌐 Socials:
