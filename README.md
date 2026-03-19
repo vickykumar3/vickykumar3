@@ -1,14 +1,20 @@
-💫 About Me:
+👋 Hi, I'm Vicky Kumar
 
+💻 Passionate Frontend Developer from India 🇮🇳
+🚀 Interested in Web Development & Data Structures and Algorithms
+🎯 Goal: Become a Full Stack Developer
 
+💫 About Me
 
-<br>
-<br>
-💻 Passionate Frontend Developer from India 🇮🇳 <br>
-<br>🌱 Currently learning JavaScript & React<br>
-<br>🎨 Love building responsive and user-friendly websites<br>
-<br>🚀 Interested in Web Development & DSA<br>
-<br>🎯 Goal: Become a Full Stack Developer
+🌱 Currently learning JavaScript & React
+
+💻 Practicing DSA problems on LeetCode
+
+🎨 Love building responsive and user-friendly websites
+
+📚 Improving problem solving & development skills
+
+🚀 Preparing for Software Development interviews
 
 
 ## 🌐 Socials:
@@ -35,19 +41,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=vickykumar3&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vickykumar3&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 🚀 LeetCode DSA Solutions
-
-Welcome to my LeetCode DSA Solutions repository!
-This repository contains my solutions to various Data Structures and Algorithms problems from LeetCode.
-I regularly practice coding problems to improve my problem-solving skills and prepare for technical interviews.
-
----
 
 ## 👨‍💻 Platform
 
 Problems solved on **LeetCode**
 
----
 
 ## 📚 Topics Covered
 
@@ -100,10 +98,6 @@ LeetCode-DSA-Solutions
 ├── Graph
 └── Dynamic-Programming
 ```
-
-Each folder contains solutions categorized by topic.
-
----
 
 ## 🎯 Goal
 
