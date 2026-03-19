@@ -1,14 +1,14 @@
 👋 Hi, I'm Vicky Kumar
 
-💻 Passionate Frontend Developer from India 🇮🇳
-🚀 Interested in Web Development & Data Structures and Algorithms
+💻 Passionate Frontend Developer from India 🇮🇳 <br>
+🚀 Interested in Web Development & Data Structures and Algorithms <br>
 🎯 Goal: Become a Full Stack Developer
 
 💫 About Me
 
 🌱 Currently learning JavaScript & React
 
-💻 Practicing DSA problems on LeetCode
+💻 Practicing DSA problems on LeetCode & Greekforgeeks
 
 🎨 Love building responsive and user-friendly websites
 
