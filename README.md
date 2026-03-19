@@ -35,6 +35,93 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=vickykumar3&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vickykumar3&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 🚀 LeetCode DSA Solutions
+
+Welcome to my LeetCode DSA Solutions repository!
+This repository contains my solutions to various Data Structures and Algorithms problems from LeetCode.
+I regularly practice coding problems to improve my problem-solving skills and prepare for technical interviews.
+
+---
+
+## 👨‍💻 Platform
+
+Problems solved on **LeetCode**
+
+---
+
+## 📚 Topics Covered
+
+* Arrays
+* Strings
+* Linked List
+* Stack
+* Queue
+* Trees
+* Graph
+* Recursion
+* Dynamic Programming
+* Greedy
+
+---
+
+## 📊 Progress Tracker
+
+| Topic               | Problems Solved |
+| ------------------- | --------------- |
+| Arrays              | 5               |
+| Strings             | 0               |
+| Linked List         | 4               |
+| Stack               | 1               |
+| Trees               | 0               |
+| Graph               | 0               |
+| Dynamic Programming | 0               |
+
+*(Progress will be updated regularly as I solve more problems.)*
+
+---
+
+## 💻 Languages Used
+
+* Java
+
+
+---
+
+ Structure
+
+```
+LeetCode-DSA-Solutions
+│
+├── Arrays
+├── Strings
+├── LinkedList
+├── Stack
+├── Trees
+├── Graph
+└── Dynamic-Programming
+```
+
+Each folder contains solutions categorized by topic.
+
+---
+
+## 🎯 Goal
+
+* Solve **300+ DSA problems**
+* Strengthen problem-solving skills
+* Prepare for coding interviews and placements
+
+---
+
+## 🔗 My LeetCode Profile
+
+ LeetCode profile link here
+ 
+https://leetcode.com/u/vickykumar__/
+
+---
+
+
 
 
 
