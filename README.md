@@ -36,12 +36,6 @@
 </p>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vickykumar3&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vickykumar3&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vickykumar3&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
 ## 👨‍💻 Platform
 
 Problems solved on **LeetCode**
@@ -114,6 +108,12 @@ LeetCode-DSA-Solutions
 https://leetcode.com/u/vickykumar__/
 
 ---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vickykumar3&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vickykumar3&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vickykumar3&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 
