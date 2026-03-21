@@ -60,7 +60,7 @@ Problems solved on **LeetCode**
 
 | Topic               | Problems Solved |
 | ------------------- | --------------- |
-| Arrays              | 5               |
+| Arrays              | 6               |
 | Strings             | 0               |
 | Linked List         | 4               |
 | Stack               | 1               |
