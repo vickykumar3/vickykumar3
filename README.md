@@ -116,6 +116,7 @@ https://leetcode.com/u/vickykumar__/
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vickykumar3&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vickykumar3&theme=neon&hide_border=false)<br/>
+<h1>HTML</h1>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vickykumar3&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
