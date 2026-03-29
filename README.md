@@ -14,7 +14,7 @@
 
 📚 Improving problem solving & development skills
 
-🚀 Preparing for Software Development interviews ngt
+🚀 Preparing for Software Development interviews 
 
 
 ## 🌐 Socials:
