@@ -105,12 +105,15 @@ LeetCode-DSA-Solutions
 
 ---
 
-## 🔗 My LeetCode Profile
+## 🔗 My LeetCode & Geeksforgeeks Profile
 
  LeetCode profile link here
  
 https://leetcode.com/u/vickykumar__/
 
+Geeksforgeeksprofile link here
+
+https://www.geeksforgeeks.org/profile/vickykumar07
 ---
 
 
