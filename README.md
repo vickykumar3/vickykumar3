@@ -111,9 +111,7 @@ LeetCode-DSA-Solutions
  
 https://leetcode.com/u/vickykumar__/
 
-Geeksforgeeksprofile link here
 
-https://www.geeksforgeeks.org/profile/vickykumar07
 ---
 
 
