@@ -65,8 +65,8 @@ Problems solved on **LeetCode**
 | Topic               | Problems Solved |
 | ------------------- | --------------- |
 | Arrays              | 20               |
-| Strings             | 5                |
-| Linked List         | 9               |
+| Strings             | 10               |
+| Linked List         | 4               |
 | Stack               | 2               |
 | Trees               | 0               |
 | Graph               | 0               |
