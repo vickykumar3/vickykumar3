@@ -67,7 +67,7 @@ Problems solved on **LeetCode**
 | Arrays              | 20               |
 | Strings             | 10               |
 | Linked List         | 4               |
-| Stack               | 2               |
+| Stack               | 5               |
 | Trees               | 0               |
 | Graph               | 0               |
 | Dynamic Programming | 0               |
