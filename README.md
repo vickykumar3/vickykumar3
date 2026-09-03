@@ -47,7 +47,7 @@ Problems solved on **LeetCode**
 
 | Topic               | Problems Solved |
 | ------------------- | --------------- |
-|Binary search        | 15
+|Binary search        | 16
 |Arrays               | 30               |
 | Strings             | 15               |
 | Linked List         | 4               |
@@ -71,7 +71,7 @@ Problems solved on **LeetCode**
 
 ```
 LeetCode-DSA-Solutions
-│
+|--- Binary Search
 ├── Arrays
 ├── Strings
 ├── LinkedList
