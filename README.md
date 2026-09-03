@@ -29,7 +29,7 @@ Problems solved on **LeetCode**
 
 
 ## 📚 Topics Covered
-
+* Binary search
 * Arrays
 * Strings
 * Linked List
