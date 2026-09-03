@@ -47,7 +47,8 @@ Problems solved on **LeetCode**
 
 | Topic               | Problems Solved |
 | ------------------- | --------------- |
-| Arrays              | 30               |
+|Binary search        | 15
+|Arrays               | 30               |
 | Strings             | 15               |
 | Linked List         | 4               |
 | Stack               | 5               |
