@@ -51,7 +51,7 @@ Problems solved on **LeetCode**
 |Arrays               | 30               |
 | Strings             | 15               |
 | Linked List         | 4               |
-| Stack               | 5               |
+| Stack               | 15               |
 | Trees               | 0               |
 | Graph               | 0               |
 | Dynamic Programming | 0               |
